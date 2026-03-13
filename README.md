@@ -1,7 +1,7 @@
 # 📰 Site de Notícias do CRP
 
 Este repositório contém o desenvolvimento do **site de notícias do
-CRP**, uma plataforma digital criada para organizar, publicar e divulgar
+CEEP Áureo FIlho**, uma plataforma digital criada para organizar, publicar e divulgar
 conteúdos informativos produzidos pela equipe editorial.
 
 O objetivo do projeto é estruturar um ambiente moderno e acessível onde
@@ -12,6 +12,10 @@ atualizações de forma rápida e organizada.
 O site foi desenvolvido utilizando **HTML, CSS e Bootstrap**, garantindo
 uma interface **responsiva, moderna e de fácil manutenção**, permitindo
 que futuras atualizações sejam realizadas com agilidade.
+
+Desenvolvido por:
+- Analia Souza
+- Hellen caldas
 
 ------------------------------------------------------------------------
 
